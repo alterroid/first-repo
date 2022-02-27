@@ -1,8 +1,8 @@
 List TODO :
   * Bangun pagi jam 5
   * Minum air hangat
+   ^ minum susu
   * cuci muka
   * Lari pagi 10 menit
   * Sikat gigi, mandi
-  * nonton nimek & baca manga akawkwak
   
